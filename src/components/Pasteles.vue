@@ -121,7 +121,7 @@
     </div>
     <div class="row">
         <div class="fs1-bold col-9"></div>
-        <div class="col-4"><a href="pedidos.html"><input type="button" class="button" value="Realizar Pedido"></a></div>
+        <div class="col-4"><router-link to="/pedidos"><input type="button" class="button" value="Realizar Pedido"></router-link></div>
 
     </div>
     </div>

@@ -5,6 +5,7 @@ import PastelesView from '../views/PastelesView.vue'
 import GalletasView from '../views/GalletasView.vue'
 import EspecialidadesView from '../views/EspecialidadesView.vue'
 import RegistroView from '../views/RegistroView.vue'
+import PedidosView from '../views/PedidosView.vue'
 
 const routes = [
   {
@@ -41,6 +42,11 @@ const routes = [
     path:'/registro',
     name: 'registro',
     component: RegistroView
+  }, 
+  {
+    path:'/pedidos',
+    name: 'pedidos',
+    component: PedidosView
   }
 ]
 
