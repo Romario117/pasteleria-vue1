@@ -6,6 +6,7 @@ import GalletasView from '../views/GalletasView.vue'
 import EspecialidadesView from '../views/EspecialidadesView.vue'
 import RegistroView from '../views/RegistroView.vue'
 import PedidosView from '../views/PedidosView.vue'
+import UsuarioView from '../views/UsuarioView.vue'
 
 const routes = [
   {
@@ -47,6 +48,11 @@ const routes = [
     path:'/pedidos',
     name: 'pedidos',
     component: PedidosView
+  },
+  {
+    path:'/panelUsuario',
+    name: 'panelUsuario',
+    component: UsuarioView
   }
 ]
 

@@ -143,7 +143,7 @@
             </div>
         </div>
         <div class="row spacie-row-xsm">
-            <a href="panelUsuario.html"><button class="button">Registrarse</button></a>
+            <router-link to="/panelUsuario"><button class="button">Registrarse</button></router-link>
         </div>
     </div>
     <div class="col-4"></div>

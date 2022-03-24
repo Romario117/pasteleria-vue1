@@ -1,5 +1,8 @@
 <template>
+<div class="row" style="margin-top:100px">
     <Especialidades />
+</div>
+    
 </template>
 
 <script>

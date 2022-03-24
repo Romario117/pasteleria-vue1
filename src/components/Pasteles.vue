@@ -1,128 +1,215 @@
 <template>
-    <div>
-
-    <div class="row" style="padding-top: 10px; ">
-        <div class="fs1-bold col-9"> Pasteles</div>
-        <div class="col-4"><a href="pedidos.html"><input type="button" class="button" value="Realizar Pedido"></a></div>
+  <div class="row">
+      <!--Inicio card -->
+    <div class="card mb-3" style="max-width: 540px">
+      <div class="row g-0">
+        <div class="col-md-4">
+          <img src="../assets/Pasteles/pastel_frutos.jpg" class="img-fluid rounded-start" alt="..." />
+        </div>
+        <div class="col-md-8">
+          <div class="card-body">
+            <h5 class="card-title">Pastel Frutos Rojos</h5>
+            <p class="card-text">
+              Rico Pastel
+            </p>
+            <p class="card-text">
+                         <button class="btn btn-primary">
+                  
+                  Agregar  <i class="bi bi-cart4"></i></button>
+            </p>
+          </div>
+        </div>
+      </div>
     </div>
-
-    <div class="row" style="border-top-style: solid;">
-        <div class="col">
-            <div class="fs2-bold">Queso</div>
-            <div class="row">
-                <div class="col-1"></div>
-                <div class="col-8   ">
-                    Pan de mantequilla, mojado con almíbar tradicional, relleno de una crema de queso de bola y cubierto
-                    con merengue.
-                </div>
-                <div class="col fs2-normal" style="padding-left: 10px;">
-                    $300.00
-                </div>
-            </div>
-
+    <!--Fin card-->
+          <!--Inicio card -->
+    <div class="card mb-3" style="max-width: 540px">
+      <div class="row g-0">
+        <div class="col-md-4">
+          <img src="../assets/Pasteles/pastel_mil_hojas.png" class="img-fluid rounded-start" alt="..." />
         </div>
-        <div class="col">
-            <div class="fs2-bold">Frutos Rojos</div>
-            <div class="row">
-                <div class="col-1"></div>
-                <div class="col-8">
-                    Pan de mantequilla, mojado con almíbar tradicional,
-                    relleno de una crema de queso de bola y cubierto con merengue.
-                </div>
-                <div class="col fs2-normal" style="padding-left: 10px;">
-                    $300.00
-                </div>
-            </div>
-
-
+        <div class="col-md-8">
+          <div class="card-body">
+            <h5 class="card-title">Pastel de Mil Hojas</h5>
+            <p class="card-text">
+Rico Pastel de Mil Hojas
+            </p>
+            <p class="card-text">
+                         <button class="btn btn-primary">
+                  
+                  Agregar  <i class="bi bi-cart4"></i></button>
+            </p>
+          </div>
         </div>
-        <div class="col">
-            <div class="fs2-bold">Nuez</div>
-            <div class="row">
-                <div class="col-1"></div>
-                <div class="col-8">
-                    Pan de mantequilla, mojado con almíbar tradicional,
-                    relleno de una crema de queso de bola y cubierto con merengue.
-                </div>
-                <div class="col fs2-normal" style="padding-left: 10px;">
-                    $300.00
-                </div>
-            </div>
-
-
-        </div>
+      </div>
     </div>
-    <div class="row">
-        <div class="col">
-            <div class="fs2-bold">Envinado</div>
-            <div class="row">
-                <div class="col-1"></div>
-                <div class="col-8">
-                    Pan de mantequilla, mojado con almíbar tradicional,
-                    relleno de una crema de queso de bola y cubierto con merengue.
-                </div>
-                <div class="col fs2-normal" style="padding-left: 10px;">
-                    $300.00
-                </div>
-            </div>
-
-
+    <!--Fin card-->
+          <!--Inicio card -->
+    <div class="card mb-3" style="max-width: 540px">
+      <div class="row g-0">
+        <div class="col-md-4">
+          <img src="../assets/Pasteles/tarta-limon.jpg" class="img-fluid rounded-start" alt="..." />
         </div>
-        <div class="col">
-            <div class="fs2-bold">Tres Leches</div>
-            <div class="row">
-                <div class="col-1"></div>
-                <div class="col-8">
-                    Pan de mantequilla, mojado con almíbar tradicional,
-                    relleno de una crema de queso de bola y cubierto con merengue.
-                </div>
-                <div class="col fs2-normal" style="padding-left: 10px;">
-                    $300.00
-                </div>
-            </div>
-
-
+        <div class="col-md-8">
+          <div class="card-body">
+            <h5 class="card-title">Tarta de Limon</h5>
+            <p class="card-text">
+              Rica tarta de limon
+            </p>
+            <p class="card-text">
+                         <button class="btn btn-primary">
+                  
+                  Agregar  <i class="bi bi-cart4"></i></button>
+            </p>
+          </div>
         </div>
+      </div>
     </div>
-    <div class="fs1-bold row" style="border-top-style: solid;"> Adornos</div>
-    <div class="row">
-        <div class="col-4">
-            <div class="row">
-                <p class="fs2-bold center">Paquete Velitas 12pz </p>
-                <p class="fs2-normal center" style="padding-left: 20px;">$40.00</p>
-            </div>
+    <!--Fin card-->
+          <!--Inicio card -->
+    <div class="card mb-3" style="max-width: 540px">
+      <div class="row g-0">
+        <div class="col-md-4">
+          <img src="../assets/Pasteles/pastel-naranja.jpg" class="img-fluid rounded-start" alt="..." />
         </div>
-        <div class="col-4">
-            <div class="row">
-                <p class="fs2-bold center">Velitas numero</p>
-                <p class="fs2-normal center" style="padding-left: 20px;">$46.00</p>
-            </div>
+        <div class="col-md-8">
+          <div class="card-body">
+            <h5 class="card-title">Pastel de Naranja</h5>
+            <p class="card-text">
+              Rico pastel de naranja
+            </p>
+            <p class="card-text">
+                        <button class="btn btn-primary">
+                  
+                  Agregar  <i class="bi bi-cart4"></i></button>
+            </p>
+          </div>
         </div>
-        <div class="col-4">
-            <div class="row">
-                <p class="fs2-bold center">Confetti Confitado</p>
-                <p class="fs2-normal center" style="padding-left: 20px;">$50.00</p>
-            </div>
-        </div>
+      </div>
     </div>
-    <div class="row">
-        <div class="col-6">
-            <div class="row">
-                            <p class="fs2-bold center">Letra de Cera</p>
-                            <p class="fs2-normal center" style="padding-left: 20px;">$10.00 pz</p>
-            </div>
+    <!--Fin card-->
+          <!--Inicio card -->
+    <div class="card mb-3" style="max-width: 540px">
+      <div class="row g-0">
+        <div class="col-md-4">
+          <img src="../assets/Pasteles/pastel_fresa.jpg" class="img-fluid rounded-start" alt="..." />
         </div>
-        <div class="col-6">
-<div class="row">
-    <p class="fs2-bold center">Mensaje Personalizado</p>
-    <p class="fs2-normal center" style="padding-left: 20px;">$70.00 </p>
-</div>
+        <div class="col-md-8">
+          <div class="card-body">
+            <h5 class="card-title">Pastel de Fresa</h5>
+            <p class="card-text">
+              Rico Pastel de Fresa
+            </p>
+            <p class="card-text">
+                         <button class="btn btn-primary">
+                  
+                  Agregar  <i class="bi bi-cart4"></i></button>
+            </p>
+          </div>
         </div>
+      </div>
     </div>
-    <div class="row">
-        <div class="fs1-bold col-9"></div>
-        <div class="col-4"><router-link to="/pedidos"><input type="button" class="button" value="Realizar Pedido"></router-link></div>
-
+    <!--Fin card-->
+          <!--Inicio card -->
+    <div class="card mb-3" style="max-width: 540px">
+      <div class="row g-0">
+        <div class="col-md-4">
+          <img src="../assets/Pasteles/pastel_chocolate.jpg" class="img-fluid rounded-start" alt="..." />
+        </div>
+        <div class="col-md-8">
+          <div class="card-body">
+            <h5 class="card-title">Pastel de Chocolate</h5>
+            <p class="card-text">
+              Rico pastel de chocolate.
+            </p>
+            <p class="card-text">
+                         <button class="btn btn-primary">
+                  
+                  Agregar  <i class="bi bi-cart4"></i></button>
+            </p>
+          </div>
+        </div>
+      </div>
     </div>
+    <!--Fin card-->
+          <!--Inicio card -->
+    <div class="card mb-3" style="max-width: 540px">
+      <div class="row g-0">
+        <div class="col-md-4">
+          <img src="../assets/Pasteles/pastel_chocolate2.jpg" class="img-fluid rounded-start" alt="..." />
+        </div>
+        <div class="col-md-8">
+          <div class="card-body">
+            <h5 class="card-title">Pastel Especial Chocolate</h5>
+            <p class="card-text">
+              Rico pastel de chocolate Especial
+            </p>
+            <p class="card-text">
+                        <button class="btn btn-primary">
+                  
+                  Agregar  <i class="bi bi-cart4"></i></button>
+            </p>
+          </div>
+        </div>
+      </div>
     </div>
+    <!--Fin card-->
+          <!--Inicio card -->
+    <div class="card mb-3" style="max-width: 540px">
+      <div class="row g-0">
+        <div class="col-md-4">
+          <img src="../assets/Pasteles/pastel_espejo.jpg" class="img-fluid rounded-start" alt="..." />
+        </div>
+        <div class="col-md-8">
+          <div class="card-body">
+            <h5 class="card-title">Pastel Espejo</h5>
+            <p class="card-text">
+              Rico pastel espejo
+            </p>
+            <p class="card-text">
+                         <button class="btn btn-primary">
+                  
+                  Agregar  <i class="bi bi-cart4"></i></button>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--Fin card-->
+          <!--Inicio card -->
+    <div class="card mb-3" style="max-width: 540px">
+      <div class="row g-0">
+        <div class="col-md-4">
+          <img src="../assets/Pasteles/pastel_panda.jpg" class="img-fluid rounded-start" alt="..." />
+        </div>
+        <div class="col-md-8">
+          <div class="card-body">
+            <h5 class="card-title">Pastel Especial</h5>
+            <p class="card-text">
+              Rico pastel de fondant.
+            </p>
+            <p class="card-text">
+                         <button class="btn btn-primary">
+                  
+                  Agregar  <i class="bi bi-cart4"></i></button>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--Fin card-->
+    <Accesorios />
+  </div>
 </template>
+
+<script>
+import Accesorios from '@/components/Accesorios.vue'
+
+export default {
+    name: 'Pasteles',
+    components:{
+        Accesorios
+    }
+}
+
+</script>

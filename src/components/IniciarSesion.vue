@@ -1,8 +1,7 @@
 <template>
-<div>
    <div class="row">
-        <div class="col-4"></div>
-        <div class="col-4 ">
+        <div class="col-3"></div>
+        <div class="col-6">
             <div class="row spacie-row-xg">
             </div>
             <div class="row center-element">Iniciar Sesión</div>
@@ -32,8 +31,6 @@
                 <router-link to="/panelUsuario"><button class="button">Iniciar Sesion</button></router-link>
             </div>
         </div>
-        <div class="col-4"></div>
+        <div class="col-3"></div>
     </div>
-
-</div>
 </template>

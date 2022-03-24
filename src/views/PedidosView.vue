@@ -1,5 +1,11 @@
 <template>
-    <Pedidos />
+<div class="row" style="margin-top:100px"
+><Pedidos />
+
+
+
+</div>
+    
 </template>
 
 <script>

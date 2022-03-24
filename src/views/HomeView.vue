@@ -1,5 +1,5 @@
 <template>
-  <div class="row">
+  <div class="row" style="margin-top:100px">
     <Dashboard />
     <p>------------------------------</p>
     <Dashboard1 />

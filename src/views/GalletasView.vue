@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="row" style="margin-top:100px">
         <Galletas />
         
     </div>

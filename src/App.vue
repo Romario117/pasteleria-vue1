@@ -1,5 +1,5 @@
 <template>
-  <nav class="navbar navbar-expand-lg navbar-light bg-nav">
+  <nav class="navbar navbar-expand-lg navbar-light bg-nav fixed-top">
   <div class="container-fluid">
     <router-link class="navbar-brand" to="/">
     <img src="assets/LogoPasteleria.png">
